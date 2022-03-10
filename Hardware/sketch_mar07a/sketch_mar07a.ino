@@ -9,6 +9,8 @@
 TinyGPS gps;
 SoftwareSerial ss(D5,D6);
 
+
+
 char dato = ' ';
 void setup()
 {
